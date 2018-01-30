@@ -1,5 +1,5 @@
 spring:
   application:
-    name: songge-client
+    name: songge-client-hot-deploy
 demo:
   title: "更新过后的title（2018/1/30）"
